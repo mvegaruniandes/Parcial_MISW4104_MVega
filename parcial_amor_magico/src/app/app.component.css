@@ -4,3 +4,12 @@
   width: auto;
   background-repeat: no-repeat;
 }
+
+#projectTitle
+{
+  font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 53px;
+}

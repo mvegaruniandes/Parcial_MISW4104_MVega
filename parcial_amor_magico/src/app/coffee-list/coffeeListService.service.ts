@@ -7,7 +7,7 @@ import { CoffeeList } from './CoffeeList';
 @Injectable({
   providedIn: 'root',
 })
-export class CoffeeListServiceService {
+export class CoffeeListService {
   private apiUrl = environment.appUrl + '202212_MISW4104_Grupo3.json';
   constructor(private http: HttpClient) {}
 
