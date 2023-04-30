@@ -1,0 +1,6 @@
+#backgroundImage{
+  background-image: url("src/resources/BannerImage.png");
+  height: 360px;
+  width: auto;
+  background-repeat: no-repeat;
+}
